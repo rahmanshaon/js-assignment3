@@ -83,4 +83,4 @@ function megaFriend(friendsName) {
   var outPut = megaFriend(friendsName);
   console.log(outPut);
 
-  // Mega Friends Start Here
+  // Mega Friends Ends Here
